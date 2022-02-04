@@ -15,9 +15,6 @@
     "react-router-dom": "^6.2.1",
     "react-scripts": "5.0.0",
     "react-share": "^4.4.0",
-    "react-social-login": "^3.4.15",
-    "react-social-login-buttons": "^3.6.0",
-    "reactjs-social-login": "^1.5.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
